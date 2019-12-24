@@ -11,6 +11,8 @@ dependencies:
   - nltk=3.3.0
   - scikit-learn=0.20.1
   - jupyter=1.0.0
+  - pip:
+    - https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.0/en_core_web_sm-2.2.0.tar.gz
 
-prefix: C:\Users\Marcial\Anaconda3\envs\nlp_course
+
 
